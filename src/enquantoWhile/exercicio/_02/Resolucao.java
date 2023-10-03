@@ -1,4 +1,4 @@
-package exercicioWhile._02;
+package enquantoWhile.exercicio._02;
 
 import java.util.Scanner;
 
