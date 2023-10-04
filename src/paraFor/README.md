@@ -2,4 +2,5 @@
 * Usar quando se sabe previamente a quantidade de repetições
 * Ótimo para fazer contagens (progressiva ou regressiva)
 * Regra
-    * /assests/regraDoFor.png
+
+   ![Regra](https://github.com/JoseLeonardoCordeiroBahia/estruturas-repetitivas-java/blob/main/src/assests/regraDoFor.png)
